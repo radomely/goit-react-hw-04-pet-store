@@ -1,0 +1,21 @@
+.header {
+  background: #444444;
+  padding: 30px;
+}
+
+.header li {
+  display: inline;
+  margin-left: 30px;
+  list-style: none;
+}
+
+.NavLink {
+  color: #fff;
+  font-weight: 900;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.activeLink {
+  color: #fd6348;
+}

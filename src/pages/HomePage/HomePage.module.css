@@ -1,0 +1,11 @@
+.titleWrapper {
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 900;
+}

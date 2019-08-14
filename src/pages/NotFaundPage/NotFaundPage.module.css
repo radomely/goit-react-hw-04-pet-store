@@ -1,0 +1,11 @@
+.PageNotFaundWrapper {
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.PageNotFaund {
+  font-size: 40px;
+  font-weight: 900;
+}
