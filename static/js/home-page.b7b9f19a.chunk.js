@@ -1,0 +1,2 @@
+(window["webpackJsonpgoit-react-hw-04-pet-store"]=window["webpackJsonpgoit-react-hw-04-pet-store"]||[]).push([[1],{38:function(e,t,a){e.exports={titleWrapper:"HomePage_titleWrapper__3t4CK",title:"HomePage_title__2MwnP"}},43:function(e,t,a){"use strict";a.r(t);var r=a(0),n=a.n(r),o=a(38),i=a.n(o);t.default=function(){return n.a.createElement("div",{className:i.a.titleWrapper},n.a.createElement("h2",{className:i.a.title}," Welcome to Paws online store! "))}}}]);
+//# sourceMappingURL=home-page.b7b9f19a.chunk.js.map
